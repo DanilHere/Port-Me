@@ -25,7 +25,7 @@ Python 3
 ## How To install
 ```bash
 git clone https://github.com/DanilHere/Port-Me.git
-cd Port-Me-main
+cd Port-Me
 python3 portme.py
 ```
 ## Authors
